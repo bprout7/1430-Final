@@ -1,0 +1,33 @@
+/*Element selector*/
+h1 {
+    text-align: center;
+    font-size: 300%;
+}
+/*List and table styling*/
+ul{
+list-style-type:none;
+  /*multiple text*/
+  text-indent: 50px;
+    font-size:250%;
+}
+ol{
+  text-indent: 50px;
+  font-size: 200%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    background-color: lightyellow;
+    }
+/*Background Color or Image*/
+ header, nav, aside {background-color:green;
+    color:white;
+   /*multiple text*/
+    text-align:center;
+    padding:5px;
+}
+hr{background-color:green;
+padding:2px;}
+.none{}
+/*iD Selectors, class Selectors, link style examples, */
